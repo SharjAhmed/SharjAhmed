@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Sharj Ahmed
+
+I'm a Junior Full Stack Developer, with a keen interest in front end development. 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharjAhmed)](https://github.com/SharjAhmed/github-readme-stats)
 
 <!--
 **SharjAhmed/SharjAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
