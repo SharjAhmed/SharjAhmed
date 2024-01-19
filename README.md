@@ -19,17 +19,17 @@ I'm a Junior Full Stack Developer, with a keen interest in front end development
 
 ### Databases
 
-![MySQL](image-5.png)
+![MySQL](image-12.png)
 
 ### Frameworks
 
-![Django](image-6.png)
-![JQuery](image-7.png)
-![Bootstrap](image-8.png)
+![Django](image-16.png)
+![JQuery](image-17.png)
+![Bootstrap](image-15.png)
 
 ### Version Control
 
-![GitHub](image-9.png) 
+![GitHub](image-18.png)
 ![Git](image-10.png)
 
 ### Technologies
