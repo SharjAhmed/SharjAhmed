@@ -1,12 +1,6 @@
 ### Hi there 👋 I'm Sharj Ahmed
 
-I'm a Junior Full Stack Developer, with a keen interest in front end development. 
-
-## 🟡 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharjAhmed&show_icons=true&theme=cobalt2&hide=issues)](https://github.com/SharjAhmed/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharjAhmed&hide_progress=true&theme=cobalt2)](https://github.com/SharjAhmed/github-readme-stats)
+I'm an Apprentice Full Stack Developer, with a keen interest in front end development. 
 
 ## Toolset
 
