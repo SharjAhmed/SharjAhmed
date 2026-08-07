@@ -1,47 +1,65 @@
-### Hi there 👋 I'm Sharj Ahmed
+<div align="center">
+  
+  # 👋 Hi there, I'm Sharj Ahmed
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Building+Responsive+Applications;Writing+Clean+Code" alt="Typing SVG" />
+  
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharjahmed91/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sharj.dev/)
 
-I'm a Software Developer Apprentice within the digital squads at Frasers Group, currently completing my QA Level 4 Apprenticeship. I also hold an accredited Diploma in Fullstack Software Development from the Code Institute. 
+</div>
 
-I have a keen interest in front-end development, building responsive full-stack applications, and tinkering with custom hardware and IoT setups.
+---
 
-🌱 **What I'm working on:**
-* Building independent full-stack web apps, including **Art2D2**, **The Lavender House**, and my portfolio site, **sharj.dev**.
-* Designing custom microcontroller hardware projects using **ESP32** boards, relays, and sensors. 
-* Configuring local home servers and automation utilizing **Raspberry Pi 5**.
+## 👨‍💻 About Me
 
-## Toolset
+I am a Full Stack Web Developer currently working within the digital squad at **Frasers Group**. Complementing my professional experience, I hold an accredited Diploma in Fullstack Software Development from the Code Institute.
+
+My core focus lies in front-end development and architecting robust, responsive full-stack applications. I am passionate about delivering seamless user experiences and writing clean, maintainable code.
+
+*   🌱 **Currently Working On:** Developing full-stack web applications, including **Art2D2**, **The Lavender House**, and my personal portfolio, **sharj.dev**.
+*   💡 **Tech Stack Focus:** React, Vite, Tailwind CSS, and Supabase.
+*   📫 **How to Reach Me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/sharjahmed91/) or via my portfolio [sharj.dev](https://sharj.dev).
+
+---
+
+## 🛠️ Technical Arsenal
 
 ### Languages
-
-![HTML5](image-3.png)
-![CSS3](image-1.png)
-![JavaScript](image-2.png)
-![Python](image-4.png)
-
-### Databases
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](image-12.png)
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</p>
 
 ### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
 
-![React](image-11.png)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](image-16.png)
-![Bootstrap](image-15.png)
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ### Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-![GitHub](image-18.png)
-![Git](image-10.png)
+---
 
-### Hardware & Other Technologies
+## 📈 GitHub Analytics
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+<div align="center">
 
-## Contact Me
-
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/sharjahmed91/)
-[![Instagram](instagram.png)](https://www.instagram.com/largearmhead/)
+![Sharj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharjahmed&hide_border=true&theme=transparent)
+</div>
